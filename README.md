@@ -1,13 +1,10 @@
 # Hi, I'm Darshan 👋
 
 **Aspiring Data Analyst** | Vadodara, Gujarat, India 📍
-
 I spent **6 years in the pharmaceutical industry**, then switched to data analytics. Now I'm building real projects with SQL, Excel, Python and Power BI. 🚀
-
 ---
 
 ## 🛠️ Skills
-
 | | |
 |---|---|
 | 🗄️ **SQL (MySQL)** | Joins, CTEs, window functions, triggers, data cleaning |
@@ -31,13 +28,11 @@ I spent **6 years in the pharmaceutical industry**, then switched to data analyt
 ---
 
 ## 🌱 Currently
-
 - Learning **Python** for data analysis
 - Building more portfolio projects
 - Looking for **Data Analyst** roles 🎯
 
 ---
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darshanvaghela9-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanvaghela9/)
