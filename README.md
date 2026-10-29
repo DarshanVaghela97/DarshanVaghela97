@@ -1,6 +1,6 @@
 # Hi, I'm Darshan 👋
 
-**Aspiring Data Analyst** | Vadodara, India 📍
+**Aspiring Data Analyst** | Vadodara, Gujarat, India 📍
 
 I spent **6 years in the pharmaceutical industry**, then switched to data analytics. Now I'm building real projects with SQL, Excel, Python and Power BI. 🚀
 
