@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Darshan 👋
 
-<!--
-**DarshanVaghela97/DarshanVaghela97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Vadodara, India 📍
 
-Here are some ideas to get you started:
+I spent **6 years in the pharmaceutical industry**, then switched to data analytics because I enjoy turning messy numbers into clear answers. Now I'm building real projects with SQL, Excel and Power BI. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+| | |
+|---|---|
+| 🗄️ **SQL (MySQL)** | Joins, CTEs, window functions, triggers, data cleaning |
+| 📊 **Power BI** | Dashboards, DAX measures, data modeling, slicers |
+| 📗 **Excel** | Data cleaning, formulas, pivot tables |
+| 🐍 **Python** | Learning |
+
+---
+
+## 📂 Featured Projects
+
+### 💊 [Pharmacy Sales & Profitability Dashboard](https://github.com/DarshanVaghela97/Pharmacy-Sales-Analysis-Project)
+4-page Power BI dashboard on a European pharmacy chain: revenue, regions, products, promotions and margins.
+
+### 🏦 [Consumer Financial Complaints Dashboard](https://github.com/DarshanVaghela97/CFPB-Financial-Analysis-Project)
+3-page Power BI dashboard on 62K+ consumer complaints: products, locations, issues and company response times.
+
+### 🎬 [Movies SQL Analysis](https://github.com/DarshanVaghela97/Movies-SQL-Analysis-Project)
+31 business questions on an IMDb-style movies database in MySQL, using joins, CTEs and window functions.
+
+---
+
+## 🌱 Currently
+
+- Learning **Python** for data analysis
+- Building more portfolio projects
+- Looking for **Data Analyst** roles 🎯
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darshanvaghela9-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanvaghela9/)
+[![Email](https://img.shields.io/badge/Email-darshanvaghela097@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:darshanvaghela097@gmail.com)
+
+😄
