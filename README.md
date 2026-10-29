@@ -2,7 +2,7 @@
 
 **Aspiring Data Analyst** | Vadodara, India 📍
 
-I spent **6 years in the pharmaceutical industry**, then switched to data analytics because I enjoy turning messy numbers into clear answers. Now I'm building real projects with SQL, Excel and Power BI. 🚀
+I spent **6 years in the pharmaceutical industry**, then switched to data analytics. Now I'm building real projects with SQL, Excel, Python and Power BI. 🚀
 
 ---
 
